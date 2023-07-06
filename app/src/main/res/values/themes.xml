@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+<!--    <style name="Base.Theme.DemoLoginPage" parent="Theme.Material3.Light.DarkActionBar">-->
+    <style name="Base.Theme.DemoLoginPage" parent="Theme.AppCompat.DayNight.DarkActionBar">
+
+    <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.DemoLoginPage" parent="Base.Theme.DemoLoginPage" />
+</resources>
